@@ -1,9 +1,5 @@
 package com.example.demo;
 
-import javax.inject.Inject;
-import javax.json.*;
-import java.util.*;
-
 public class MessageService {
 
     Message message = new Message(1, 2, 3, 4, 5, 6, 7, 8);

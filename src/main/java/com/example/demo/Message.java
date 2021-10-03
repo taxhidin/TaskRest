@@ -15,14 +15,14 @@ public class Message {
     private int eight;
 
     public Message(int first, int second, int third, int fourth, int five, int six, int seven, int eight) {
-        this.first = 1;
-        this.second = 2;
-        this.third = 3;
-        this.fourth = 4;
-        this.five = 5;
-        this.six = 6;
-        this.seven = 7;
-        this.eight = 8;
+        this.first = first;
+        this.second = second;
+        this.third = third;
+        this.fourth = fourth;
+        this.five = five;
+        this.six = six;
+        this.seven = seven;
+        this.eight = eight;
     }
 
     public Message() {

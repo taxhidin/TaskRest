@@ -1,11 +1,10 @@
 package com.example.demo;
 
 import javax.inject.Inject;
-import javax.json.JsonObject;
 import javax.ws.rs.*;
 import javax.ws.rs.core.MediaType;
 import java.util.HashMap;
-import java.util.List;
+
 
 @Path("/addUpNumbers")
 public class HelloResource {
